@@ -12,7 +12,7 @@ font-family: 'Smokum', cursive;*/
 
 body {
 	font-family: "Rokkitt", serif;
-	background: url("../img/bg.jpg") center/cover no-repeat;
+	background: url("./img/bg.jpg") center/cover no-repeat;
 }
 
 .container {
